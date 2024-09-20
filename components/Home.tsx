@@ -28,7 +28,7 @@ export default function HomePage() {
 
                     <div className="flex flex-row space-x-2">
                         <div className="">
-                            <a href="https://drive.google.com/file/d/1Hm_uyOXs2myE-yRy7jUAtMBJY4Y3htG4/view?usp=sharing" target='_blank' ><Button  className='bg-accentColor text-white p-2' radius='sm' startContent={<IoDocument className='w-[24px] h-[24px]'></IoDocument>}>Download CV</Button></a>
+                            <a href="https://drive.google.com/file/d/1LmsEyeME18wjaWGYLHEV-Rgh9nkAxLZM/view?usp=sharing" target='_blank' ><Button  className='bg-accentColor text-white p-2' radius='sm' startContent={<IoDocument className='w-[24px] h-[24px]'></IoDocument>}>Download CV</Button></a>
                         </div>
                         <div className="">
                             <a href="#Portfolio"><Button className='p-2' radius='sm' variant='bordered' startContent={<FaLocationArrow className='w-[24px] h-[24px]'/>}>View Portfolio</Button></a>
